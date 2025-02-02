@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809694439457",
+    "project_id": "feelsy-5c59f",
+    "storage_bucket": "feelsy-5c59f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809694439457:android:e4edd3d77d03a829829b60",
+        "android_client_info": {
+          "package_name": "com.example.mentalhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqrhxI9Zm0Ugj_HSZE68KOm6HtQXU3yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
